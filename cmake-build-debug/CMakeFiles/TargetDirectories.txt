@@ -1,0 +1,3 @@
+/home/zin/Documents/ProgrammingProjects/MobileRemote/cmake-build-debug/CMakeFiles/MobileRemote.dir
+/home/zin/Documents/ProgrammingProjects/MobileRemote/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zin/Documents/ProgrammingProjects/MobileRemote/cmake-build-debug/CMakeFiles/rebuild_cache.dir
